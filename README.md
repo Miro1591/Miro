@@ -1,4 +1,0 @@
-Miro
-====
-
-Miro test
